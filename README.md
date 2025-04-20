@@ -49,19 +49,21 @@ Below are the quantitative improvements observed after fine‑tuning our YOLOv12
 </p>
 
 <p align="center">
-  <img src="download (9).png" alt="Training & validation curves" width="75%"/>
+  <img src="download (11).jpg" alt="Training & validation curves" width="75%"/>
 </p>
 
-**Results For Model zoo aproach**
-
-
+**Results for Finetuned Weed Detector**
 | Metric           | After Fine‑Tuning |
 |------------------|:------------------:|
 | **mAP @ 0.50**       |       0.7535 | 
 | **mAP @ 0.75**       |       0.9756 |      
 | **mAP @ 0.50–95**    |       0.87997|   
 
+<p align="center">
+  <img src="download (9).png" alt="Training & validation curves" width="75%"/>
+</p>
 
+**Results For Model zoo aproach**
 <p align="center">
   <img src="download (8).png" alt="Weed and Plant detector" width="75%"/>
 </p>
