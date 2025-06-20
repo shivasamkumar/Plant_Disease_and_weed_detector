@@ -78,6 +78,12 @@ Below are the quantitative improvements observed after fine‑tuning our YOLOv12
   <img src="plant_disease_Detector_gpt.png" alt="Training & validation curves" width="75%"/>
 </p>
 
+
+Plant Disease Model : [Plant Disease Detector](https://drive.google.com/file/d/10YJh6Hjxv5h2OjxRq-QRyIpLnZyWHUL6/view?usp=sharing)
+
+Weed Detector Model: [Weed Detector](https://drive.google.com/file/d/1S-qSi2cCkys-Q9B7KL5p2R_DDZ9r8iDV/view?usp=sharing)
+
+
 ## 📖 Citation
 
 ```bibtex
